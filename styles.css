@@ -1,0 +1,21 @@
+.form{
+    border: solid 2px black;
+    padding: 10px;
+    background-color: azure;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.preview{
+    /* border: solid 2px black; */
+    padding: 10px;
+    color: blue;
+}
+
+.list{
+    border: solid 2px black;
+    padding: 10px;
+    background-color: azure;
+}
